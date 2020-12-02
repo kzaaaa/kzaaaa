@@ -1,21 +1,24 @@
-<h1 align="center">Hi 👋, I'm SkiloZ</h1>
+### Hi there, I'm Saiko 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=0e75b6&style=flat" alt="skilozz" /> </p>
 
-- 🔭 I’m currently working on **Mirage Project**
+- 🔭 I’m currently working on Mirage Project.
+- 🌱 I’m currently learning to use MySQL.
+- 📫 How to reach me : SkiloZ#0212 on discord.
 
-- 🌱 I’m currently learning **to use MySQL**
+### Connect with me:
 
-- 📫 How to reach me **SkiloZ#0212**
+[<img align="left" alt="HarutoHiroki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kaza_binks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kaza_binks" height="30" width="40" /></a>
-</p>
+### My Tools:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<br />
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skilozz&show_icons=true&locale=en&layout=compact" alt="skilozz" /></p>
+<img align="left" alt="SkiloZZ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SkiloZZ&show_icons=true&hide_border=true&theme=dark" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skilozz&show_icons=true&locale=en" alt="skilozz" /></p>
+[twitter]: https://twitter.com/kaza_binks
