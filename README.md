@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=0e75b6&style=flat" alt="skilozz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skilozz" alt="skilozz" /></a> </p>
-
 - 🔭 I’m currently working on **Mirage Project**
 
 - 🌱 I’m currently learning **to use MySQL**
