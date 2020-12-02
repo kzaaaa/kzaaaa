@@ -15,4 +15,6 @@
 <br />
 <br />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skilozz&show_icons=true&locale=en&layout=compact" alt="skilozz" /></p>
+
 <img align="left" alt="SkiloZZ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SkiloZZ&show_icons=true&hide_border=true&theme=dark" />
