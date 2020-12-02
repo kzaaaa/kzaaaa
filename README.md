@@ -5,11 +5,6 @@
 - 🌱 I’m currently learning to use MySQL.
 - 📫 How to reach me : SkiloZ#0212 on discord.
 
-### Connect with me:
-
-[<img align="left" alt="HarutoHiroki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
-
 ### My Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
