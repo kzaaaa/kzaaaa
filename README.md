@@ -22,6 +22,10 @@
    <a href="https://github.com/whoisbaby" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
+---
+
+<div align="center"><p align="center">Discord</p><img src="https://discord.c99.nl/widget/theme-3/716975975145013348.png" /></div>
+
 
 ---
 <h3><p align="center">Nombre de visite :</h3><p align="center"><img src="https://profile-counter.glitch.me/kzaaaa/count.svg" />
