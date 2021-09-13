@@ -4,9 +4,9 @@
 
 <img align="right" alt="kza. Github Stats" src="https://github-readme-stats.vercel.app/api?username=kzaaaa&theme=tokyonight&show_icons=true&hide_border=true" />
 
-![Your Repository's Stats]( https://github-readme-stats.vercel.app/api/top-langs/?username=kzaaaa&theme=tokyonight )
+![Your Repository's Stats]( https://github-readme-stats.vercel.app/api/top-langs/?username=kzaaaa&theme=tokyonight )<br>
 
-<br>
+
 
 <h1><p align="center">
  - 🧬 I am a young student and I live in France.<br>
