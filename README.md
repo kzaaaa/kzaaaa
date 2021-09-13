@@ -7,10 +7,12 @@
 ![Your Repository's Stats]( https://github-readme-stats.vercel.app/api/top-langs/?username=kzaaaa&theme=tokyonight )
 
 
-<h1><p align="center">- 🧬 I am a young student and I live in France.
-- 🔭 I’m currently working on Mirage Project.
-- 🌱 I’m currently learning to use MySQL.
----</h1>
+<h1><p align="center">
+ - 🧬 I am a young student and I live in France.
+ - 🔭 I’m currently working on Mirage Project.
+ - 🌱 I’m currently learning to use MySQL.
+--- 
+</h1>
 
 
  <a href="https://github.com/kzaaaa/">
