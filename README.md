@@ -32,4 +32,4 @@
  
 ---
 
-![Banner](https://zupimages.net/viewer.php?id=21/37/0yj2.gif)
+![Banner](https://zupimages.net/up/21/37/0yj2.gif)
