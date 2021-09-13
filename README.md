@@ -6,10 +6,12 @@
 
 ![Your Repository's Stats]( https://github-readme-stats.vercel.app/api/top-langs/?username=kzaaaa&theme=tokyonight )
 
-- 🧬 I am a young student and I live in France.
+
+<h1><p align="center">- 🧬 I am a young student and I live in France.
 - 🔭 I’m currently working on Mirage Project.
 - 🌱 I’m currently learning to use MySQL.
----
+---</h1>
+
 
  <a href="https://github.com/kzaaaa/">
 <div align="center"><p align="center">Discord</p><img src="https://discord.c99.nl/widget/theme-2/716975975145013348.png" /></div>
