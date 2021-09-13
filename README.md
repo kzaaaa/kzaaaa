@@ -24,7 +24,7 @@
 
 ---
 
-<div align="center"><p align="center">Discord</p><img src="https://discord.c99.nl/widget/theme-3/716975975145013348.png" /></div>
+<div align="center"><img src="https://discord.c99.nl/widget/theme-3/716975975145013348.png" /></div>
 
 
 ---
