@@ -23,7 +23,7 @@
    <a href="https://twitter.com/kkzkkzkk" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
- <a href="https://github.com/kzaaaa/">
+
 <div align="center"><p align="center">Discord</p><img src="https://discord.c99.nl/widget/theme-2/716975975145013348.png" /></div>
 
 ---
