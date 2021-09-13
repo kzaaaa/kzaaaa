@@ -25,10 +25,6 @@
 
 ---
 <h3><p align="center">Nombre de visite :</h3><p align="center"><img src="https://profile-counter.glitch.me/kzaaaa/count.svg" />
- 
- 
-
-[<p align="center"><br><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kzaaaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCmb2UgM41bTgRfwNE14gi7g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='website' height='40'>](https://discord.com/users/716975975145013348)
 
  
 ---
