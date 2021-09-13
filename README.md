@@ -11,7 +11,7 @@
 <h1><p align="center">
  - 🧬 I am a young student and I live in France.<br>
  - 🔭 I’m currently working on Mirage Project.<br>
- - 🌱 I’m currently learning to use MySQL.<br>
+ - 🌱 I’m currently learning to use MySQL.
 </h1>
 
 ---
