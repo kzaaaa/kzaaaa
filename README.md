@@ -23,8 +23,6 @@
 </p>
 
 
-<div align="center"><p align="center">Discord</p><img src="https://discord.c99.nl/widget/theme-2/716975975145013348.png" /></div>
-
 ---
 <h3><p align="center">Nombre de visite :</h3><p align="center"><img src="https://profile-counter.glitch.me/kzaaaa/count.svg" />
  
