@@ -1,4 +1,4 @@
-<h1><img src="https://i.imgur.com/ccsKEwU.gif" width="30"/> Hi there, I'm kza.</h1>
+<h1><p align="center"><img src="https://i.imgur.com/ccsKEwU.gif" width="30"/> Hi there, I'm kza.</h1>
 
 
 
